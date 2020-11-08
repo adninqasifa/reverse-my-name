@@ -1,4 +1,4 @@
-# Rerse my Name
+# Reverse my Name
 
 Given a name, try to reverse all characters in the name
 
